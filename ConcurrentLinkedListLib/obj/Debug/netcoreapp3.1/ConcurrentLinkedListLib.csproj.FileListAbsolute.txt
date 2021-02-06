@@ -1,0 +1,9 @@
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\bin\Debug\netcoreapp3.1\ConcurrentLinkedListLib.deps.json
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\bin\Debug\netcoreapp3.1\ConcurrentLinkedListLib.dll
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\bin\Debug\netcoreapp3.1\ConcurrentLinkedListLib.pdb
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\obj\Debug\netcoreapp3.1\ConcurrentLinkedListLib.csprojAssemblyReference.cache
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\obj\Debug\netcoreapp3.1\ConcurrentLinkedListLib.AssemblyInfoInputs.cache
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\obj\Debug\netcoreapp3.1\ConcurrentLinkedListLib.AssemblyInfo.cs
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\obj\Debug\netcoreapp3.1\ConcurrentLinkedListLib.csproj.CoreCompileInputs.cache
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\obj\Debug\netcoreapp3.1\ConcurrentLinkedListLib.dll
+C:\Users\trtr\source\repos\ConcurrentLinkedList\ConcurrentLinkedListLib\obj\Debug\netcoreapp3.1\ConcurrentLinkedListLib.pdb
